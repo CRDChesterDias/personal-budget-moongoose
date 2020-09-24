@@ -96,11 +96,13 @@ header.hero h2 {
         margin: 10px;
     }
 }
-
+/* A11y change */
 a.skip{
-    top: -99px ;
+    position: absolute; 
+    margin-left: -999em;
 }
 
 a.skip:focus{
-    top: auto;
+    position: relative;
+   margin-left: auto;  
 }
