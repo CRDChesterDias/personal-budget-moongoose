@@ -20,6 +20,8 @@
   "homepage": "https://github.com/CRDChesterDias/personal-budget#readme",
   "dependencies": {
     "chart.js": "^2.9.3",
-    "express": "^4.17.1"
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "package.json": "^2.0.1"
   }
 }
